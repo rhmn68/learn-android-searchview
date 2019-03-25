@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">LearnSearchView</string>
+
+    <string-array name="my_hobby">
+        <item>Gaming</item>
+        <item>Coding</item>
+        <item>Ngoding</item>
+        <item>Gording</item>
+        <item>Odading</item>
+    </string-array>
 </resources>
